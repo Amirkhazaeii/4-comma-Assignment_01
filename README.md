@@ -25,12 +25,12 @@ Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
   <h3 align="center">4-Comma: Lost Genius</h3>
 
   <p align="center">
-    Short two sentence project desctiption here!
+    This is a Yonkoma project called Lost Genius which is a class assignment about using image based AIs in the creative process workflow, the story is about a guy who is cooking and he has a great idea for his yonkoma project but his mom calls and after that he forgets what his project was!
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://website.com">Amir Hossein Khazaei</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -42,7 +42,8 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
+The process used to create this yonkoma  the “Lost Genius”  involved refining AI-generated prompts to produce images that visually represented a humorous narrative. The experiment’s goal was to use ai as a tool for my yonkoma drawings that  illustrate the story of a student losing his idea after a phone call from his mom. 
+Adobe FireFly as an image generator and Chat GPT as a prompt engineer have been used to create this workflow for producing visuals for the yonkoma.
 
 Example of how to make a list:
 There are many great README templates available on GitHub.
@@ -111,9 +112,9 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Amir Khazaei - amirkhazaei@tamu.edu
 
-Personal Website: [https://website.com](https://website.com)
+Personal Website: [https://website.com](https://amirkhazaei.com)
 
 
 
