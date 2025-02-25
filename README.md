@@ -22,7 +22,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: My Title Here</h3>
+  <h3 align="center">4-Comma: Lost Genius</h3>
 
   <p align="center">
     Short two sentence project desctiption here!
