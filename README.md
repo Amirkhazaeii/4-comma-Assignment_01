@@ -59,7 +59,7 @@ Various AI image generators were tested, including Leonardo, MidJourney, Gemini 
 
 [![4-comma][images-fig2]](https://example.com)
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+Figure 2. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
