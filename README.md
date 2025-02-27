@@ -126,7 +126,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[images/Fig1]: images/Fig1.jpg
+[images/Fig1]: images/Fig1.png
 [images-Fig2]: images/Fig2.jpg
 [images-Fig3]: images/Fig3.jpg
 [images-Fig4]: images/Fig4.jpg
