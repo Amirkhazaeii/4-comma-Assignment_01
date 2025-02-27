@@ -42,18 +42,11 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-The process used to create this yonkoma  the “Lost Genius”  involved refining AI-generated prompts to produce images that visually represented a humorous narrative. The experiment’s goal was to use ai as a tool for my yonkoma drawings that  illustrate the story of a student losing his idea after a phone call from his mom. 
-Adobe FireFly as an image generator and Chat GPT as a prompt engineer have been used to create this workflow for producing visuals for the yonkoma.
-
+The process used to create the yonkoma "Lost Genius" for the Generative art and design class assignment  involved using image generator AI s to help artists make their humorous narrative. The experiment aimed to integrate AI as a tool in the creative process while maintaining human artistic control. Adobe FireFly was used as an image generator, and ChatGPT acted as a prompt engineer to develop a workflow for producing visuals. The yonkoma tells the story of a student losing his brilliant idea after getting distracted by a phone call from his mom.
 Example of how to make a list:
 There are many great README templates available on GitHub.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 [![4-comma][images-fig2]](https://example.com)
 
@@ -62,20 +55,12 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
+AI-generated art has become a widely discussed topic in creative fields. While AI can assist artists in generating ideas, it lacks the human touch essential for storytelling and visual expression. This project explores a workflow that integrates AI into the artistic process, enhancing rather than replacing human creativity. Prior works, such as AI-assisted character design and AI-enhanced concept art, have demonstrated the potential for collaboration between technology and artists. However, these applications often face criticism regarding originality and artistic intent. With "Lost Genius," the goal was to develop a method where AI serves as a supportive tool rather than an autonomous creator, emphasizing the importance of artistic intervention in refining AI-generated imagery.
 
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
-
-How to use subsection:
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
 
-Your Methodology and Related Works here: 200 words here.
+Various AI image generators were tested, including Leonardo, MidJourney, Gemini and Adobe FireFly. Adobe FireFly was chosen for its ability to maintain a consistent anime-style aesthetic. ChatGPT was utilized as a prompt engineer, refining initial descriptions into detailed prompts for each panel. For example, the first panel's original prompt, "An anime-style character, a guy in the kitchen, making eggs," was refined into " An anime-style male character in a cozy kitchen, mid-cooking, with a shocked yet excited expression as if he just had a brilliant idea. He has spiky hair and wears a casual apron over a t-shirt. Holding a frying pan with sizzling food, steam rises around him, and various ingredients are scattered on the counter. The scene is dynamic, with warm lighting and vibrant colors, capturing the energy of his sudden inspiration. Medium shot, slightly dramatic angle for emphasis."
 
 [![4-comma][images-fig3]](https://example.com)
 
