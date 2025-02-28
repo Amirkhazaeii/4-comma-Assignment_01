@@ -27,7 +27,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
   <p align="center">
     This is a Yonkoma project called Lost Genius which is a class assignment about using image based AIs in the creative process workflow, the story is about a guy who is cooking and he has a great idea for his yonkoma project but his mom calls and after that he forgets what his project was!
     <br />
-    <a href="https://github.com/amirkhazaeii/4-comma-Assignments_011/blob/main/PDF/PDF.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/amirkhazaeii/4-comma-Assignments_011/blob/main/pdf/pdf.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Amir Khazaei</a>
