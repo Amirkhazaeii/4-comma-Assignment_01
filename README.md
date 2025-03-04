@@ -38,7 +38,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. The Lost Genius Yonkoma! trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
+Figure 1. The Lost Genius Yonkoma!This yonkoma represents more than just a funny situation—it captures the real experience of being a busy master's student. With a constant stream of tasks, assignments, and expectations, distractions often steal our focus. From the technical Aspect its trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
 <!-- Abstract -->
 ## Abstract
 The process used to create the yonkoma "Lost Genius" for the Generative art and design class assignment  involved using image generator AI s to help artists make their humorous narrative. The experiment aimed to integrate AI as a tool in the creative process while maintaining human artistic control. Adobe FireFly was used as an image generator, and ChatGPT acted as a prompt engineer to develop a workflow for producing visuals. The yonkoma tells the story of a student losing his brilliant idea after getting distracted by a phone call from his mom.
