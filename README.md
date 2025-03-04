@@ -57,23 +57,23 @@ AI-generated art has become a widely discussed topic in creative fields. While A
 
 Various AI image generators were tested, including Leonardo, MidJourney, Gemini and Adobe FireFly. Adobe FireFly was chosen for its ability to maintain a consistent anime-style aesthetic. ChatGPT was utilized as a prompt engineer, refining initial descriptions into detailed prompts for each panel. For example, the first panel's original prompt, "An anime-style character, a guy in the kitchen, making eggs," was refined into " An anime-style male character in a cozy kitchen, mid-cooking, with a shocked yet excited expression as if he just had a brilliant idea. He has spiky hair and wears a casual apron over a t-shirt. Holding a frying pan with sizzling food, steam rises around him, and various ingredients are scattered on the counter. The scene is dynamic, with warm lighting and vibrant colors, capturing the energy of his sudden inspiration. Medium shot, slightly dramatic angle for emphasis."
 
+The final AI-generated images were then digitally painted and the AI was fed with the digital painting as the main style to generate more images close to the original painting. After generating more images with AI, they were used as the reference to draw my final.
+
 [![4-comma][images-fig2]](https://example.com)
 
 Figure 2. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+The process saved time in conceptualization while keeping the artistic expression. Future work can be and exploration of  integrating AI-driven animation techniques.
+
 
 ## Conclusion
-Your Conclusion here: 50 words here
+"Lost Genius" illustrates how AI can assist artists in generating ideas and refining concepts without compromising artistic integrity. This project highlights the benefits of image generator AIs  while showing the necessity of human creativity in finalizing artistic works.
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
-
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
-
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
+Nadezhda Angelova. 2024. The capabilities of the art-oriented artificial intelligence Adobe Firefly and its visual
+advantages and disadvantages. Journal" Fundamental Sciences and Applications" 30, 1 (2024), 1–10.
 
 
 
