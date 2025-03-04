@@ -38,8 +38,7 @@ Assignment 1, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
-
+Figure 1. The Lost Genius Yonkoma! trying to show how AI can be used in an artistic workflow as a tool to help artists with theor projects. The story is about distraction, the problem we all experience in our daily life!
 <!-- Abstract -->
 ## Abstract
 The process used to create the yonkoma "Lost Genius" for the Generative art and design class assignment  involved using image generator AI s to help artists make their humorous narrative. The experiment aimed to integrate AI as a tool in the creative process while maintaining human artistic control. Adobe FireFly was used as an image generator, and ChatGPT acted as a prompt engineer to develop a workflow for producing visuals. The yonkoma tells the story of a student losing his brilliant idea after getting distracted by a phone call from his mom.
@@ -55,13 +54,27 @@ AI-generated art has become a widely discussed topic in creative fields. While A
 
 ## Methodology
 
+[![4-comma][images-fig2]](https://example.com)
+Figure 2. Generated Images with Adobe Firefly with the first prompt.
+
+[![4-comma][images-fig2]](https://example.com)
+Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
+
+
+
+
 Various AI image generators were tested, including Leonardo, MidJourney, Gemini and Adobe FireFly. Adobe FireFly was chosen for its ability to maintain a consistent anime-style aesthetic. ChatGPT was utilized as a prompt engineer, refining initial descriptions into detailed prompts for each panel. For example, the first panel's original prompt, "An anime-style character, a guy in the kitchen, making eggs," was refined into " An anime-style male character in a cozy kitchen, mid-cooking, with a shocked yet excited expression as if he just had a brilliant idea. He has spiky hair and wears a casual apron over a t-shirt. Holding a frying pan with sizzling food, steam rises around him, and various ingredients are scattered on the counter. The scene is dynamic, with warm lighting and vibrant colors, capturing the energy of his sudden inspiration. Medium shot, slightly dramatic angle for emphasis."
+
+
+[![4-comma][images-fig2]](https://example.com)
+Figure 4.  Digitally painted panel that I gave to Adobe FireFly as the reference for generating image.
+[![4-comma][images-fig2]](https://example.com)
+Figure 5. Generated Images with Adobe Firefly based on the refernce I gave.
 
 The final AI-generated images were then digitally painted and the AI was fed with the digital painting as the main style to generate more images close to the original painting. After generating more images with AI, they were used as the reference to draw my final.
 
-[![4-comma][images-fig2]](https://example.com)
 
-Figure 2. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+
 
 ## Result and Future Work
 The process saved time in conceptualization while keeping the artistic expression. Future work can be and exploration of  integrating AI-driven animation techniques.
@@ -110,7 +123,10 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: images/fig1.png
-[images-fig3]: images/Fig2.png
+[images-fig2]: images/fig2.jpg
+[images-fig3]: images/fig3.jpg
+[images-fig4]: images/fig4.jpg
+[images-fig5]: images/fig5.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
