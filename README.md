@@ -126,7 +126,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig2]: images/fig2.jpg
 [images-fig3]: images/fig3.jpg
 [images-fig4]: images/fig4.png
-[images-fig5]: images/fig5.jpg
+[images-fig5]: images/fig5.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
