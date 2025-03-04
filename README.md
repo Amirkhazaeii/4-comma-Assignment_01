@@ -57,7 +57,7 @@ AI-generated art has become a widely discussed topic in creative fields. While A
 [![4-comma][images-fig2]](https://example.com)
 Figure 2. Generated Images with Adobe Firefly with the first prompt.
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig3]](https://example.com)
 Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
 
 
@@ -66,9 +66,9 @@ Figure 3. Generated Images with Adobe Firefly with chat GPT prompt.
 Various AI image generators were tested, including Leonardo, MidJourney, Gemini and Adobe FireFly. Adobe FireFly was chosen for its ability to maintain a consistent anime-style aesthetic. ChatGPT was utilized as a prompt engineer, refining initial descriptions into detailed prompts for each panel. For example, the first panel's original prompt, "An anime-style character, a guy in the kitchen, making eggs," was refined into " An anime-style male character in a cozy kitchen, mid-cooking, with a shocked yet excited expression as if he just had a brilliant idea. He has spiky hair and wears a casual apron over a t-shirt. Holding a frying pan with sizzling food, steam rises around him, and various ingredients are scattered on the counter. The scene is dynamic, with warm lighting and vibrant colors, capturing the energy of his sudden inspiration. Medium shot, slightly dramatic angle for emphasis."
 
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig4]](https://example.com)
 Figure 4.  Digitally painted panel that I gave to Adobe FireFly as the reference for generating image.
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig5]](https://example.com)
 Figure 5. Generated Images with Adobe Firefly based on the refernce I gave.
 
 The final AI-generated images were then digitally painted and the AI was fed with the digital painting as the main style to generate more images close to the original painting. After generating more images with AI, they were used as the reference to draw my final.
